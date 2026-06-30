@@ -13,12 +13,19 @@
 ### 🛠️ Tech Stack
 
 **Languages:** JavaScript, C, C++, HTML, CSS, SQL
+
 **Frontend:** React.js, Next.js, Tailwind CSS, Vite, HTML5, CSS3
+
 **Backend:** Node.js, Express.js, Next.js API Routes
+
 **Database:** MongoDB, Mongoose ODM
+
 **Authentication:** JWT, Firebase Auth
+
 **Payments:** Razorpay SDK
+
 **AI/ML:** Google Gemini API
+
 **Tools:** Git, GitHub, VS Code, Render, Vercel, Cloudinary, PowerShell
 
 ### 🔥 Featured Projects
