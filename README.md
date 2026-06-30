@@ -1,13 +1,16 @@
-### Final Year CSE Student at MBS College of Engineering & Technology
-💻 Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
+# I'm Raksharth Kohli
+
+🎓 Final Year CSE Student at MBS College of Engineering & Technology
+💻 Full-Stack Developer | MERN Stack Developer | Problem Solver
 
 ### 🚀 What I Do
-- Building scalable web applications with MERN Stack (MongoDB, Express, React, Node.js)
-- Crafting responsive UIs with React, Next.js and Tailwind CSS
-- Integrating secure payment systems with Razorpay
-- Building AI-powered tools using Google Gemini API
+- Building scalable web applications with **MERN Stack** (MongoDB, Express, React, Node.js)
+- Crafting responsive UIs with **React**, **Next.js** and **Tailwind CSS**
+- Integrating secure payment systems with **Razorpay**
+- Building AI-powered tools using **Google Gemini API**
 
 ### 🛠️ Tech Stack
+
 **Languages:** JavaScript, C, C++, HTML, CSS, SQL
 **Frontend:** React.js, Next.js, Tailwind CSS, Vite, HTML5, CSS3
 **Backend:** Node.js, Express.js, Next.js API Routes
@@ -25,6 +28,4 @@
 - More exciting projects coming soon! 🚧
 
 ### ⭐ Let's Connect!
-- 📧 your-email@gmail.com
-- 🔗 LinkedIn
-- 💻 GitHub
+- 📧 raksharthkohli145@gmail,com
