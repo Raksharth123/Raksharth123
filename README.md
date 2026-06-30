@@ -29,4 +29,4 @@
 - More exciting projects coming soon! 🚧
 
 ### ⭐ Let's Connect!
-- 📧 raksharthkohli145@gmail,com
+- 📧 raksharthkohli145@gmail.com
