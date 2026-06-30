@@ -1,6 +1,6 @@
 # I'm Raksharth Kohli
 
-🎓 Final Year CSE Student at MBS College of Engineering & Technology
+🎓 Final Year CSE Student at MBS College of Engineering & Technology.
 
 💻 Full-Stack Developer | MERN Stack Developer | Problem Solver
 
