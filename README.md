@@ -14,7 +14,7 @@
 
 **Languages:** JavaScript, C, C++, HTML, CSS, SQL
 
-**Frontend:** React.js, Next.js, Tailwind CSS, Vite, HTML5, CSS3
+**Frontend:** React.js, Next.js, Tailwind CSS, Vite, HTML, CSS
 
 **Backend:** Node.js, Express.js, Next.js API Routes
 
